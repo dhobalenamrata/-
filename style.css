@@ -222,5 +222,9 @@ input:checked+label .description {
     body {
         overflow-x: hidden;
     }
-    .main-container {}
+    .main-container {
+        min-width: 1660px;
+        margin-top: 70%;
+        
+    }
 }

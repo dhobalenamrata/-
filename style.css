@@ -71,7 +71,6 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: start;
-    gap:50px;
 }
 
 .card {
@@ -79,7 +78,7 @@ h2 {
     height: 400px;
     background-size: cover;
     cursor: pointer;
-    margin: 0 10px;
+    margin: 10px 10px;
     border-radius: 2rem;
     display: flex;
     align-items: flex-end;

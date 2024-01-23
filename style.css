@@ -201,7 +201,7 @@ input:checked+label .description {
 @media (max-width: 858px) {
     .main-container {
         min-width: 1120px;
-        margin-top: 50%;
+        margin-top: 70%;
     }
     h1 {
         font-size: 55px;

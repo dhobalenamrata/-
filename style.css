@@ -204,11 +204,11 @@ input:checked+label .description {
         margin-top: 50%;
     }
     h1 {
-        font-size: 45px;
+        font-size: 55px;
         min-width: 450px;
     }
     h2 {
-        font-size: 18px;
+        font-size: 23px;
     }
     .card {
         min-width: 60px;

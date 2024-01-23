@@ -70,7 +70,6 @@ h2 {
     display: flex;
     flex-wrap: wrap;
     justify-content: start;
-/*     gap: 15px; */
 }
 
 .card {
